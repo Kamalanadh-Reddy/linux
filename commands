@@ -38,4 +38,16 @@ pstree 		- showing the all rooting directories
 sleep 		- to delay or pause of specific amount of time
 ssh 		- to access the remotely login
 echo 		- used for standard inputs and standard outputs
+scp		- to copying the file
+sudo		- acting like the root or moving the root
+nslookup	- DNS details
+unzip		- unzipping the zip files
+cd		- changing the directory
+grep		- to searching the word
+ls		- listing the files
+id		- showing the id
+ping		- ping to the server or another machine
+traceroute / tracepath	- checking the flowing of the network packets
+rsync		- copying and synchronizing 
+
 
