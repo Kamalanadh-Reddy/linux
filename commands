@@ -1,41 +1,41 @@
-exit - logout from current seccion
-!!   - Repeats the last command
-wget -c file - Continue a stopped file downloaded
-free - show memory and swap usage
-uname -a - show kernal information 
-whoami - who you are logged in as
-date - show current date and time
-chmod octal file - to give permissions to the file to seperates the user, group, world
-kill pid - to killing the process id
-fg - brings the most recent job to foreground
-killall proc - Kill all the process named proc
-ps - to display the currently working process
-top - display all running process
-mv file1 file2 - Rename or move file1 to file2,if file2 is an existing directory
-cp file1 file2 - copy the file
+exit	 	- logout from current seccion
+!!   		- Repeats the last command
+wget -c file 	- Continue a stopped file downloaded
+free 	- show memory and swap usage
+uname -a 	- show kernal information 
+whoami 		- who you are logged in as
+date 		- show current date and time
+chmod octal file 	- to give permissions to the file to seperates the user, group, others
+kill pid 	- to killing the process id
+fg 	- brings the most recent job to foreground
+killall proc 	- Kill all the process named proc
+ps 		- to display the currently working process
+top 		- display all running process
+mv file1 file2 	- Rename or move file1 to file2,if file2 is an existing directory
+cp file1 file2 	- copy the file
 cp -r dir1 dir2 - copy the directory
-rm file - deleting the file
-rm -r dir - deleting the directory
-rm -r file - force removing the file
-rm -rf dir - force to removing the directory file
-touch file - creating the empty file
-cat file - to read the file
-more file - to read the content of the file
-head file - top 10 lines of the file
-tail file - last 10 lines of the file
-mkdir creating the directory
-pwd - show the current directory
-dig domain - get DNS information for domain
->file - to empty the file
-env - list the all current variables (mail, path, pwd, home, logname, shell )
-factor - showing the factor numbers
-history - the commands history
-hostname - showing the hostname or the ip address
-id user - showing the id of the user
-last - display a listing of last logged in users
+rm file 	- deleting the file
+rm -r dir 	- deleting the directory
+rm -r file 	- force removing the file
+rm -rf dir 	- force to removing the directory file
+touch file 	- creating the empty file
+cat file 	- to read the file
+more file 	- to read the content of the file
+head file 	- top 10 lines of the file
+tail file 	- last 10 lines of the file
+mkdir 		- creating the directory
+pwd 		- show the current directory
+dig domain 	- get DNS information for domain
+>file 		- to empty the file
+env 		- list the all current variables (mail, path, pwd, home, logname, shell )
+factor 		- showing the factor numbers
+history 	- the commands history
+hostname 	- showing the hostname or the ip address
+id user 	- showing the id of the user
+last 		- display a listing of last logged in users
 netstat -a | more - will display all open ports on the local system
-pstree - showing the all rooting directories
-sleep - to delay or pause of specific amount of time
-ssh - to access the remotely login
-echo - used for standard inputs and standard outputs
+pstree 		- showing the all rooting directories
+sleep 		- to delay or pause of specific amount of time
+ssh 		- to access the remotely login
+echo 		- used for standard inputs and standard outputs
 
